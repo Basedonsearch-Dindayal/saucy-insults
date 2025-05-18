@@ -1,6 +1,6 @@
 {
   "name": "saucy-insults",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates funny, spicy, and Shakespearean insults.",
   "main": "index.js",
   "type": "module",

@@ -3,9 +3,22 @@
   "version": "1.0.0",
   "description": "Generates funny, spicy, and Shakespearean insults.",
   "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Basedonsearch-Dindayal/saucy-insults.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Basedonsearch-Dindayal/saucy-insults/issues"
+  },
+  "homepage": "https://github.com/Basedonsearch-Dindayal/saucy-insults#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified.\" && exit 0"
   },
   "author": "BasedOnSearch",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["insults", "funny", "spicy", "shakespeare", "roast", "generator"]
 }

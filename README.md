@@ -91,9 +91,3 @@ console.log(insults.list(5, 'light')); // get 5 light insults
 - No external dependencies
 
 ---
-
-## License
-
-MIT © Your Name
-
----
